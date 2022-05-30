@@ -1,0 +1,72 @@
+# My Hotkeys
+
+Print
+	screenshot-select
+
+super + Print
+	screenshot
+
+XF86Audio{RaiseVolume,LowerVolume,Mute}
+	pamixer -{i,d,t} 1; kill -34 $(cat ~/.cache/pidofbar)
+
+XF86Audio{Play,Stop}
+        dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.{Play,Pause}
+
+super + Escape
+	system_action
+
+
+# Applications
+
+super + Return
+ st
+
+super + r
+ $TERMINAL -e "lfc"
+
+super + b
+ $BROWSER
+
+XF86HomePage
+ $BROWSER
+
+super + shift + l
+ i3lock-fancy
+
+super + v
+ $TERMINAL -e "nvim"
+
+super + s
+ spotify
+
+super + e
+ emacsclient -c -a 'emacs' --eval '(dashboard-refresh-buffer)'
+
+super + c
+ clipmenu -l 23
+
+# Scripts
+
+alt + w
+ waldl
+
+alt + p
+ passmenu
+
+alt + t
+ ytfzf -D
+
+alt + m
+ notflix
+
+alt + n
+ wifi-connect
+
+alt + e
+ emoji
+
+alt + b
+ bluetooth
+
+alt + r
+ redyt

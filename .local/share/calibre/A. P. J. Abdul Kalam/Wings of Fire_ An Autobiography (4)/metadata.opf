@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7078fc74-c0ff-4067-92bb-0afde9287e10</dc:identifier>
+        <dc:title>Wings of Fire: An Autobiography</dc:title>
+        <dc:creator opf:file-as="Kalam, A. P. J. Abdul &amp; Tiwari, Arun" opf:role="aut">A. P. J. Abdul Kalam</dc:creator>
+        <dc:creator opf:file-as="Kalam, A. P. J. Abdul &amp; Tiwari, Arun" opf:role="aut">Arun Tiwari</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-12-31T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Published in the year 2000, Wings Of Fire: An Autobiography is a book that documents the life of A. P. J. Abdul Kalam, and inspires the readers to ignite the fire within themselves.   &lt;/p&gt;
+&lt;p&gt;Wings of Fire: An Autobiography is an autobiographical novel that tells the readers a story about unlocking their inner potential. Kalam does a great deal to throw light on his journey to igniting the fire within himself. This book is divided into seven parts, and begins with an Introduction and Preface. This is then followed by an Orientation, which contains a quote from the Atharva Veda. After that, the readers are also enlightened on the incidents that made Kalam what he is today.   &lt;/p&gt;
+&lt;p&gt;In the Orientation portion of the book, the readers are provided insights into the birth, childhood, and education of Kalam. This section covers his time at Schwartz High School and Madras Institute of Technology, as well as his middle class background in detail. The chapters that follow are Creation and Propitiation . He also reminisces the time he had at Langley Research Center, NASA, and Wallops Flight Facility. In the chapter Creation , Kalam delves into the time when his father passed away, to him being awarded the Padma Bhushan in 1981.   &lt;/p&gt;
+&lt;p&gt;The final chapters deal with his life as a visionary scientist, where he reminisces the role he played in the guided missile development program, and making five formidable missiles. These achievements fetched Kalam the title of the Missile Man of India . This autobiography comes with 24 photos taken at different times in Kalam s life. It has also been translated into 13 languages, which include Chinese, French, Tamil, Malayalam, Gujarati, and Oriya.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sangam Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788173711466</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8173711461</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">634583</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Biography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;A. P. J. Abdul Kalam&quot;: &quot;&quot;, &quot;Arun Tiwari&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-27T15:43:36.108952+00:00"/>
+        <meta name="calibre:title_sort" content="Wings of Fire: An Autobiography"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

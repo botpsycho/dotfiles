@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74d459a8-131d-4c52-bd0f-4be8a7535fdf</dc:identifier>
+        <dc:title>A Storm of Swords</dc:title>
+        <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-10-31T06:00:00+00:00</dc:date>
+        <dc:description>Four contend for power over the Iron Throne and the Land of the Seven Kingdoms; alliances shift, and betrayal is always an option. House Lannister's head, Joffrey, rules uneasily. Joffrey's enemy, Lord Stannis, is disgraced and enthralled. Robb of House Stark still rules the North, implacable in his enmity towards his Lannister foes, even as they hold his sister hostage. And the exiled queen Daenerys, mistress of the world's last three dragons, makes her way across a blood-drenched continent. But as opposing forces maneuver for the final titanic showdown, there appears an army of barbaric wildlings, led by undead Others. The unpredictable violence of a final cataclysm is inevitable; the one certain thing is that many men will die upon many swords.</dc:description>
+        <dc:publisher>Bantam Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553106633</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;George R. R. Martin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Song of Ice and Fire"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-05-27T15:43:49+00:00"/>
+        <meta name="calibre:title_sort" content="Storm of Swords, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

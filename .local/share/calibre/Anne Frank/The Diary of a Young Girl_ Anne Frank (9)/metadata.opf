@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d738552b-a4f4-4231-aa72-14b1dc433954</dc:identifier>
+        <dc:title>The Diary of a Young Girl: Anne Frank</dc:title>
+        <dc:creator opf:file-as="Frank, Anne &amp; Frank, Otto H." opf:role="aut">Anne Frank</dc:creator>
+        <dc:creator opf:file-as="Frank, Anne &amp; Frank, Otto H." opf:role="aut">Otto H. Frank</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-03-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;SUMMARY:&lt;br&gt;Discovered in the attic in which she spent the last years of her life, Anne Frank's remarkable diary has since become a world classic -- a powerful reminder of the horrors of war and an eloquent testament to the human spirit. In 1942, with Nazis occupying Holland, a thirteen-year-old Jewish girl and her family fled their home in Amsterdam and went into hiding. For the next two years, until their whereabouts were betrayed to the Gestapo, they and another family lived cloistered in the "Secret Annex" of an old office building. Cut off from the outside world, they faced hunger, boredom, the constant cruelties of living in confined quarters, and the ever-present threat of discovery and death. In her diary Anne Frank recorded vivid impressions of her experiences during this period. By turns thoughtful, moving, and amusing, her account offers a fascinating commentary on human courage and frailty and a compelling self-portrait of a sensitive and spirited young woman whose promise was tragically cut short.&lt;/p&gt;
+&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;Anne Frank's diaries have always been among the most moving and eloquent documents of the Holocaust. This new edition restores diary entries omitted from the original edition, revealing a new depth to Anne's dreams, irritations, hardships, and passions. Anne emerges as more real, more human, and more vital than ever. If you've never read this remarkable autobiography, do so. If you have read it, you owe it to yourself to read it again. &lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;This startling new edition of Dutch Jewish teenager Anne Frank's classic diary?written in an Amsterdam warehouse, where for two years she hid from the Nazis with her family and friends?contains approximately 30% more material than the original 1947 edition. It completely revises our understanding of one of the most moving and eloquent documents of the Holocaust. The Anne we meet here is much more sarcastic, rebellious and vulnerable than the sensitive diarist beloved by millions. She rages at her mother, Edith, smolders with jealous resentment toward her sister, Margot, and unleashes acid comments at her roommates. Expanded entries provide a fuller picture of the tensions and quarrels among the eight people in hiding. Anne, who died in the Bergen-Belsen concentration camp in March 1945, three months before her 16th birthday, candidly discusses her awakening sexuality in entries that were omitted from the 1947 edition by her father, Otto, the only one of the eight to survive the death camps. He died in 1980. This crisp, stunning translation provides an unvarnished picture of life in the "secret annex." In the end, Anne's teen angst pales beside her profound insights, her self-discovery and her unbroken faith in good triumphing over evil. Photos not seen by PW. &lt;br&gt;Copyright 1995 Reed Business Information, Inc. &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Bantam Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553577129</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Holocaust; Jewish (1939-1945)</dc:subject>
+        <dc:subject>Jews</dc:subject>
+        <dc:subject>Amsterdam (Netherlands)</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Anne Frank&quot;: &quot;&quot;, &quot;Otto H. Frank&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-27T15:43:40.536446+00:00"/>
+        <meta name="calibre:title_sort" content="Anne Frank: the diary of a young girl"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

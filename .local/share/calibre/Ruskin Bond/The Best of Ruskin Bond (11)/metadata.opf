@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a3ab523-9a7a-4a43-9704-6daff0f24046</dc:identifier>
+        <dc:title>The Best of Ruskin Bond</dc:title>
+        <dc:creator opf:file-as="Bond, Ruskin" opf:role="aut">Ruskin Bond</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The essential Ruskin Bond Delhi Is Not Far brings together the best of Ruskin Bond's prose and poetry. For over four decades, by way of innumerable novels, essays, short stories, and poems, the author has mapped out and peopled a unique literary landscape. This anthology has selections from all of his major books and also features an unpublished novella, Delhi Is Not Far.</dc:description>
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789351184249</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ruskin Bond&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-05-27T15:43:42.291419+00:00"/>
+        <meta name="calibre:title_sort" content="Best of Ruskin Bond, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

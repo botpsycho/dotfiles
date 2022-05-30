@@ -1,0 +1,35 @@
+#!/bin/sh
+
+# sudo skipped
+for command in mount umount pacman su shutdown poweroff reboot rkhunter ; do
+	alias $command="sudo $command"
+done; unset command
+
+
+alias \
+        startx="startx $XINITRC" \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -vI" \
+	ping="ping -c 3 google.com" \
+        ncmpcpp='ncmpcpp ncmpcpp_directory=$HOME/.config/ncmpcpp/' \
+        v="nvim" \
+	e="$EDITOR" \
+	p="pacman" \
+	pcdl="pacman -Syyuw" \
+        ls="exa" \
+        la="exa -a --color=always --group-directories-first" \
+        ll="exa -al --color=always --group-directories-first" \
+	lsblk="lsblk -f" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	pkill="pkill -e" \
+	emacs="emacsclient -c -a 'emacs'" \
+        doomsync="~/.emacs.d/bin/doom sync" \
+        doomdoctor="~/.emacs.d/bin/doom doctor" \
+        doomupgrade="~/.emacs.d/bin/doom upgrade" \
+        doompurge="~/.emacs.d/bin/doom purge" \
+	lf="lfc" \
+	ncdu="ncdu --show-hidden --show-itemcount --show-graph" \
+	spotify-play="dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Play" \
+	spotify-pause="dbus-send --print-reply --dest=org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Pause" \

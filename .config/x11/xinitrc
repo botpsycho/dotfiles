@@ -1,0 +1,12 @@
+#!/bin/sh
+
+setbg &
+xcompmgr &
+dunst &
+sxhkd &
+unclutter &
+dwmbar &
+clipmenud &
+xset r rate 300 50 &
+
+exec dwm > /dev/null 2>&1

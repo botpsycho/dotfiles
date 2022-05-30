@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8301055-702e-46c4-a4fe-e4100e085596</dc:identifier>
+        <dc:title>Why We Sleep: Unlocking the Power of Sleep and Dreams</dc:title>
+        <dc:creator opf:file-as="Walker, Matthew" opf:role="aut">Matthew Walker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-03T05:00:00+00:00</dc:date>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06ZZ1YGJ5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Matthew Walker&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-05-27T15:43:37+00:00"/>
+        <meta name="calibre:title_sort" content="Why We Sleep: Unlocking the Power of Sleep and Dreams"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;removed&quot;: true, &quot;timestamp&quot;: &quot;2022-05-28T05:35:12.547Z&quot;, &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;CnhW-y9j0qX-mdZYDTSKBA&quot;}}"/>
+        <meta name="calibre:annotation" content="{&quot;format&quot;: &quot;EPUB&quot;, &quot;user_type&quot;: &quot;local&quot;, &quot;user&quot;: &quot;viewer&quot;, &quot;annotation&quot;: {&quot;removed&quot;: true, &quot;timestamp&quot;: &quot;2022-05-28T05:31:24.100Z&quot;, &quot;type&quot;: &quot;highlight&quot;, &quot;uuid&quot;: &quot;h2dl1AVXQmwIORhpSLfeqw&quot;}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

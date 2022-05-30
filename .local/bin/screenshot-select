@@ -1,0 +1,4 @@
+#/bin/bash
+
+maim --select | tee ~/pix/ss/$(date +%s).jpg | xclip -sel c -t image/jpg
+notify-send "Screenshot Captured"

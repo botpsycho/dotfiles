@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d247af1-cd7c-4ef4-a80d-0ba9eadcc163</dc:identifier>
+        <dc:title>The Success Principles(TM) - 10th Anniversary Edition: How to Get From Where You Are to Where You Want to Be</dc:title>
+        <dc:creator opf:file-as="Canfield, Jack &amp; Switzer, Janet" opf:role="aut">Jack Canfield</dc:creator>
+        <dc:creator opf:file-as="Canfield, Jack &amp; Switzer, Janet" opf:role="aut">Janet Switzer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-26T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Get ready to transform yourself for success with #1 &lt;em&gt;New York Times&lt;/em&gt; bestselling author Jack Canfield!&lt;/p&gt;&lt;p&gt;Since its publication a decade ago, Jack Canfield's practical and inspiring guide has become a classic that has helped hundreds of thousands of people achieve success. This fully revised and updated edition of &lt;em&gt;The Success Principles&lt;/em&gt;™ features one hundred pages of additional material, including a new section that offers a comprehensive guide to "Success in the Digital Age."&lt;/p&gt;&lt;p&gt;In this special 10th Anniversary Edition of his 500,000-copy bestseller, Canfield—the cocreator of the phenomenal bestselling &lt;em&gt;Chicken Soup for the Soul&lt;/em&gt;® series—turns to the principles he's studied, taught, and lived for more than forty years in this practical and inspiring guide that will help any aspiring person get from where they are to where they want to be.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Success Principles&lt;/em&gt;™ will teach you how to increase your confidence, tackle daily challenges, live with passion and purpose, and realize all your ambitions. Not merely a collection of good ideas, this book spells out the 67 timeless principles and practices used by the world's most successful men and women. Taken together and practiced every day, these principles will transform your life beyond your wildest dreams!&lt;/p&gt;&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Qk_2AwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00K53D43C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062364296</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Self-Help</dc:subject>
+        <dc:subject>Motivational &amp; Inspirational</dc:subject>
+        <dc:subject>Body; Mind &amp; Spirit</dc:subject>
+        <dc:subject>Inspiration &amp; Personal Growth</dc:subject>
+        <dc:subject>Personal Growth</dc:subject>
+        <dc:subject>Success</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jack Canfield&quot;: &quot;&quot;, &quot;Janet Switzer&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-27T15:43:38.707612+00:00"/>
+        <meta name="calibre:title_sort" content="Success Principles(TM) - 10th Anniversary Edition: How to Get From Where You Are to Where You Want to Be, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

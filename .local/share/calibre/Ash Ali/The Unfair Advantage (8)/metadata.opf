@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7255f681-410d-4b97-8b67-e233a0bc240f</dc:identifier>
+        <dc:title>The Unfair Advantage</dc:title>
+        <dc:creator opf:file-as="Ali, Ash" opf:role="aut">Ash Ali</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-12T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;The world is not a level playing field, but no matter where you are starting from, you already have what it takes to stand out and give your business an edge:&lt;/b&gt;&lt;b&gt; your Unfair Advantage &lt;/b&gt;&lt;/p&gt;&lt;p&gt;What is the difference between a startup that makes it, and one that crashes and burns? Behind every story of success is an unfair advantage.&lt;/p&gt;&lt;p&gt;But an Unfair Advantage is not just about your parents' wealth or who you know: anyone can have one. An Unfair Advantage is the element that gives you an edge over your competition. &lt;/p&gt;&lt;p&gt;This ground-breaking book shows how to identify your own Unfair Advantages and apply them to any project. Drawing on over two decades of hands-on experience, including as the first Marketing Director of Just Eat (a startup now worth over £4 billion), the authors offer a unique framework for assessing your external circumstances in addition to your internal strengths. Hard work and grit aren't enough, so they explore the importance of money,...</dc:description>
+        <dc:publisher>Profile</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781782835974</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ash Ali&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-05-27T15:43:39.705208+00:00"/>
+        <meta name="calibre:title_sort" content="Unfair Advantage, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

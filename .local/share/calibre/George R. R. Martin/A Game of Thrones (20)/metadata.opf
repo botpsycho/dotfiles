@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78f3de06-38c4-4030-9d25-c9d8bbaba2c9</dc:identifier>
+        <dc:title>A Game of Thrones</dc:title>
+        <dc:creator opf:file-as="Martin, George R. R." opf:role="aut">George R. R. Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.43.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-08-01T06:00:00+00:00</dc:date>
+        <dc:description>In a time long forgotten, a preternatural event threw the seasons off balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. As the cold returns, sinister forces are massing beyond the protective wall of the kingdom of Winterfell. To the south, the king's powers are failing - his most trusted advisor mysteriously dead and enemies emerging from the throne's shadow. At the center of the conflict, the Starks of Winterfell hold the key: a reluctant Lord Eddard is summoned to serve as the king's Hand.</dc:description>
+        <dc:publisher>Bantam Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553103540</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;George R. R. Martin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Song of Ice and Fire"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-05-27T15:43:50.230385+00:00"/>
+        <meta name="calibre:title_sort" content="Game of Thrones, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

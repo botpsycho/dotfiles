@@ -1,0 +1,19 @@
+{
+	"useNeDB": false,
+	"version": "1.1.0",
+	"menuOn": true,
+	"sourceGroups": [
+		{
+			"isMultiple": false,
+			"sids": [
+				0
+			]
+		},
+		{
+			"isMultiple": false,
+			"sids": [
+				1
+			]
+		}
+	]
+}
