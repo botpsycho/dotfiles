@@ -1,0 +1,5 @@
+relative link = /link.html or /folder/link.html
+absolute link = https://google.com
+<img src=”(your image URL here)”> # alt to print things when image not load, height and width attribute, recommened to set any one (out of height and width) at a time otherwise ratio will get disturbed. recommeneded to do these things in CSS
+doubt- header, main and footer
+html is not a case sentitive language

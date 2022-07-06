@@ -1,0 +1,14 @@
+def fibo(n):
+    # test = 1
+    # for i in range(n):
+    #     test = test * i + (i-1) + (i-2)
+    # return test
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibo(n-1) + fibo(n-2)
+
+take = int(input("Enter the number: "))
+print(fibo(take))
